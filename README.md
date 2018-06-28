@@ -1,3 +1,3 @@
 # KeySightProject
 
-It is developed using HTML5 with Angualar.
+It is developed using HTML5 with Angular.
